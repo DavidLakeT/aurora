@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:aurora/app/utils/constants.dart';
+import 'package:Aurora/app/utils/constants.dart';
 
 class AppTheme {
   static ThemeData get basic => ThemeData(

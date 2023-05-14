@@ -1,4 +1,4 @@
-import 'package:aurora/app/features/home_screen/views/screens/home_screen.dart';
+import 'package:Aurora/app/features/home_screen/views/screens/home_screen.dart';
 import 'package:get/get.dart';
 
 part 'app_routes.dart';

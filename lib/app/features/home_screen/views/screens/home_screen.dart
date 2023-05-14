@@ -1,4 +1,4 @@
-import 'package:aurora/app/widgets/custom_app_bar.dart';
+import 'package:Aurora/app/widgets/custom_app_bar.dart';
 import 'package:eva_icons_flutter/eva_icons_flutter.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
