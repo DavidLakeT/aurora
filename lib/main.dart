@@ -1,7 +1,7 @@
-import 'package:Aurora/app/routes/app_pages.dart';
+import 'package:aurora/app/routes/app_pages.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:Aurora/app/themes/app_theme.dart';
+import 'package:aurora/app/themes/app_theme.dart';
 
 void main() async {
   runApp(const MyApp());
