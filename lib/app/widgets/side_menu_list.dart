@@ -4,16 +4,9 @@ import 'package:flutter/services.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 
 class SideMenuList extends StatelessWidget {
-  final ByteData? imageData;
-
-  SideMenuList(this.imageData);
 
   @override
   Widget build(BuildContext context) {
-
-    if (imageData == null) {
-      return CircularProgressIndicator();
-    }
 
     return ListView(
       padding: EdgeInsets.zero,
