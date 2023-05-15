@@ -16,3 +16,9 @@ const kNotifColor = Color.fromRGBO(74, 177, 120, 1);
 class Font {
   static const poppins = "Poppins";
 }
+
+class ApiConstants {
+  static String baseUrl = "https://newsapi.org/v2/";
+  static String everythingEndpoint = '/everything';
+  static String topHeadlinesEndpoint = "/top-headlines";
+}

@@ -11,19 +11,19 @@ class HomeScreen extends StatelessWidget {
       photoUrl: 'https://logowik.com/content/uploads/images/679_bbc.jpg',
       name: 'BBC',
       text: 'Contenido del mensaje',
-      date: '23 Julio',
+      date: '8:20 PM',
     ),
     NewsSplash(
       photoUrl: 'https://theme.zdassets.com/theme_assets/968999/d8a347b41db1ddee634e2d67d08798c102ef09ac.jpg',
       name: 'New York Times',
       text: 'Contenido del mensaje',
-      date: '17 Mayo',
+      date: '6:17 PM',
     ),
     NewsSplash(
       photoUrl: 'https://play-lh.googleusercontent.com/fTyAbWr1i3kiZHquKN2gPAapnRhAIEYfCaOXvs-IMFulvH_sWat_be6zfeMeYaLjQPc',
       name: 'DW News',
       text: 'Contenido del mensaje',
-      date: '14 Mayo',
+      date: '17 de dic',
     ),
     NewsSplash(
       photoUrl: 'https://cdn.freebiesupply.com/logos/large/2x/cnn-international-logo-png-transparent.png',
